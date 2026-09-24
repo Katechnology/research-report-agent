@@ -1,4 +1,4 @@
-# Multi-agent research report
+# Research Report Agent
 
 This mini project turns a research-workflow assignment into a standalone notebook. A planner chooses search queries and an outline; search tools gather source excerpts; a research agent creates an evidence brief; a writer drafts; a reviewer checks the draft; and an editor revises it. The default target is about 1,200 words. The notebook is a walkthrough, while `research_workflow.py` contains reusable code.
 
